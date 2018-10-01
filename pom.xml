@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>se.william.springboot</groupId>
-	<artifactId>mvcshoppinglist</artifactId>
+	<artifactId>mvcCRM</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>mvcshoppinglist</name>
-	<description>MCV for a shopping list</description>
+	<name>mvcCRM</name>
+	<description>MVC CRM</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
